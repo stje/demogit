@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>EASJ0093</Machine>
+    <WindowsUser>stje</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>90951398-a26b-4584-a7f8-aa3083953152</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\stje\Documents\Visual Studio 2013\Projects\DemoGit\DemoGit\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>B14C35EC6F82F3E04E40FC9F82ABC8709B47688581F07057BAAB272D4409DD3B</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>90951398-a26b-4584-a7f8-aa3083953152_1.0.0.0_neutral__51ns66z1esxyw</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>90951398-a26b-4584-a7f8-aa3083953152_51ns66z1esxyw!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>90951398-a26b-4584-a7f8-aa3083953152</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=stje</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\stje\Documents\Visual Studio 2013\Projects\DemoGit\DemoGit\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-10-06T11:18:45.802</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\stje\Documents\Visual Studio 2013\Projects\DemoGit\DemoGit\bin\Debug\DemoGit.exe">
+      <PackagePath>DemoGit.exe</PackagePath>
+      <Modified>2014-10-06T11:18:45.161</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\stje\Documents\Visual Studio 2013\Projects\DemoGit\DemoGit\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T05:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\stje\Documents\Visual Studio 2013\Projects\DemoGit\DemoGit\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T05:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\stje\Documents\Visual Studio 2013\Projects\DemoGit\DemoGit\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T05:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\stje\Documents\Visual Studio 2013\Projects\DemoGit\DemoGit\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T05:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\stje\Documents\Visual Studio 2013\Projects\DemoGit\DemoGit\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2014-10-06T11:18:44.849</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\stje\Documents\Visual Studio 2013\Projects\DemoGit\DemoGit\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2014-10-06T11:18:44.849</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\stje\Documents\Visual Studio 2013\Projects\DemoGit\DemoGit\bin\Debug\DemoGit.xr.xml">
+      <PackagePath>DemoGit.xr.xml</PackagePath>
+      <Modified>2014-10-06T11:18:44.786</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\stje\Documents\Visual Studio 2013\Projects\DemoGit\DemoGit\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2014-10-06T11:18:45.583</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
