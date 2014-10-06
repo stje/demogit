@@ -26,5 +26,10 @@ namespace DemoGit
         {
             this.InitializeComponent();
         }
+
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+           // dette er en prøve på en kommentar
+        }
     }
 }
