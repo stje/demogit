@@ -8,8 +8,12 @@
     mc:Ignorable="d">
 
     <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+<<<<<<< HEAD
         <Button Content="Button" HorizontalAlignment="Left" Margin="526,266,0,0" VerticalAlignment="Top" Background="#FFF70303" Click="Button_Click"/>
-        <TextBox x:Name="output" HorizontalAlignment="Left" Margin="812,269,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top"/>
+=======
+        <Button Content="Button" HorizontalAlignment="Left" Margin="526,266,0,0" VerticalAlignment="Top" Background="#FFF70303"/>
+        <TextBox HorizontalAlignment="Left" Margin="812,269,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top"/>
+>>>>>>> master
 
     </Grid>
 </Page>

@@ -30,6 +30,7 @@ namespace DemoGit
         private void Button_Click(object sender, RoutedEventArgs e)
         {
            // dette er en prøve på en kommentar
+           output.Text = "Juhu!!!";
         }
     }
 }
